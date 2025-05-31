@@ -30,7 +30,7 @@ export default function EsqueciSenha() {
           </p>
           <img
             className="recuperacao-jotanunes-logo"
-            src="./public/jotanunes-logo.png"
+            src="/jotanunes-logo.png"
             alt="JotaNunes-Logo"
           />
         </div>
